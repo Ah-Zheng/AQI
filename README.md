@@ -6,3 +6,4 @@
 * 儲存裝置 : LocalStorage
 * 資料來源(API) : https://opendata.epa.gov.tw/Data/Details/AQI/
 * 資料格式 : JSON
+* 跨域代理伺服器 : https://cors-anywhere.herokuapp.com/
